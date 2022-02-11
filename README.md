@@ -25,7 +25,7 @@
 - ⚡ Sou apaixonado por futebol e costumo acompanhar partidas. É uma das coisas que gosto de fazer no meu tempo livre!
 
   ##
-  
+ 
   <div> 
   <a href = "mailto:joaoartur4590@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/magalhesartur/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
