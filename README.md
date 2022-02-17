@@ -1,4 +1,4 @@
-### 👋 Olá, sou o Artur, desenvolvedor Front-End.
+### 👋 Olá, sou o Artur, desenvolvedor Front-End. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ##
 
@@ -7,6 +7,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagalhaesArtur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagalhaesArtur&layout=compact&langs_count=7&theme=dracula">
  </div>
+ 
+ <h4>
+  
+```nix
+let me = {
+  name = "Artur";
+  age = 18;
+  tech = {
+  frontend = [ " ReactJS " (loading...) ];
+  backend = [" NodeJS "];
+  };
+```
+</h4>
   
  ##
  
@@ -20,9 +33,9 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 🌱 Atualmente estudando para se tornar um desenvolvedor Full-Stack
-- 💬 Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web. Utilizo a stack JavaScript para desenvolver.
-- ⚡ Sou apaixonado por futebol e costumo acompanhar partidas. É uma das coisas que gosto de fazer no meu tempo livre!
+- 🌱 Atualmente estudando para se tornar um desenvolvedor Full-Stack <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+- 💬 Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web. Utilizo a stack JavaScript para desenvolver. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⚡ Sou apaixonado por futebol e costumo acompanhar partidas. É uma das coisas que gosto de fazer no meu tempo livre! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
   ##
   
