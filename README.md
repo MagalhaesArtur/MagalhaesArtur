@@ -15,7 +15,7 @@ let me = {
   name = "Artur";
   age = 18;
   tech = {
-  frontend = [ " ReactJS " (loading...) ];
+  frontend = [ " ReactJS "];
   backend = [" NodeJS "];
   };
 ```
