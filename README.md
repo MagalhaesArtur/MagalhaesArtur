@@ -1,4 +1,4 @@
-### 👋 Olá, sou o Artur, desenvolvedor Front-End. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### 👋 Olá, sou o Artur, desenvolvedor Full-Stack Júnior <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ##
 
