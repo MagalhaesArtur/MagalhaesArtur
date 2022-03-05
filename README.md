@@ -12,11 +12,11 @@
   
 ```nix
 let me = {
-  name: "Artur",
-  age: 18,
+  name= "Artur";
+  age= 18;
   techs = {
-  frontend:"ReactJS";
-  backend:"NodeJS"
+  frontend = "ReactJS";
+  backend = "NodeJS";
   };
 ```
 </h4>
