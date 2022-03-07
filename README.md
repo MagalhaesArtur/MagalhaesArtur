@@ -1,14 +1,18 @@
-### 👋 Olá, sou o Artur, desenvolvedor Full-Stack Júnior <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=DEV ARTUR&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+===+ARTUR;MINHA+ESPECIALIDADE+É+===+WEB+DESENVOLVIMENTO;SE+GOSTAR+DO+MEU+TRABALHO,+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MagalhaesArtur&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="ARTUR" /></div>
+
+<div align="center">  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MagalhaesArtur&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="MagalhaesArtur github stats" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagalhaesArtur&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="MagalhaesArtur github stats"/>
+</div>
+
 
 ##
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagalhaesArtur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagalhaesArtur&layout=compact&langs_count=7&theme=dracula">
- </div>
- 
- <h4>
   
 ```nix
 let me = {
@@ -19,14 +23,23 @@ let me = {
   backend = "NodeJS";
   };
 ```
-</h4>
-  
- ##
- 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Artur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Artur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Artur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
+
+
+
+##
+
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=MagalhaesArtur&theme=react-dark&hide_border=true&area=true)
+
+<div align="center">  
+  <img src="https://img.shields.io/badge/React-0a7bdb?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-dbcc18?style=for-the-badge&logo=javascript&logoColor=333"/>
+   <img src="https://img.shields.io/badge/NodeJs-337e14?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-46c711?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div>
 
 ##
