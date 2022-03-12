@@ -1,6 +1,6 @@
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=DEV ARTUR&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Artur Dev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+===+ARTUR;MINHA+ESPECIALIDADE+É+===+WEB+DESENVOLVIMENTO;SE+GOSTAR+DO+MEU+TRABALHO,+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 
@@ -14,14 +14,15 @@
 
 ##
   
-```nix
+```javascript
 let me = {
-  name= "Artur";
-  age= 18;
-  techs = {
-  frontend = "ReactJS";
-  backend = "NodeJS";
-  };
+  name: "Artur",
+  age: 18,
+  techs: {
+     frontend: "ReactJS",
+     backend: "NodeJS"
+      }
+   };
 ```
 
 
