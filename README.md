@@ -17,7 +17,7 @@
 ```javascript
 let me = {
   name: "Artur",
-  age: 18,
+  age: 19,
   techs: {
      frontend: "ReactJS",
      backend: "NodeJS"
