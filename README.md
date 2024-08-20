@@ -47,6 +47,7 @@ let me = {
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
+- 💻 Desenvolvedor Front-End no Insight Lab
 - 🌱 Atualmente estudando para se tornar um desenvolvedor Full-Stack <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - 💬 Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web. Utilizo a stack JavaScript para desenvolver. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ Sou apaixonado por futebol e costumo acompanhar partidas. É uma das coisas que gosto de fazer no meu tempo livre! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
